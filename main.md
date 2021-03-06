@@ -1,8 +1,12 @@
 #C++笔记
+
 ##C++万能头
+
 C++的万能头一般是指
 `#include<bits/stdc++.h>`
+
 ##C++const与指针
+
 `const int * pt1;`
 
 pt1是指向int敞亮的指针，指向目标可修改，但指向的目标的值不可修改。
